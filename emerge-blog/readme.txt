@@ -4,7 +4,7 @@ Contributors: kantipurthemes
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, one-column, two-columns, custom-header, blog, entertainment, portfolio
 Requires at least: 5.1
 Requires PHP: 5.6
-Tested up to: 6.5
+Tested up to: 6.8
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,9 @@ Emerge Blog WordPress Theme, Copyright 2023 Kantipur Themes
 Emerge Blog is distributed under the terms of the GNU GPL
 
 == Changelog ==
+
+= 1.1 =
+* Updated design issue
 
 = 1.0 =
 * Initial release
